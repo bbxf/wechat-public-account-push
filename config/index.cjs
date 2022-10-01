@@ -11,15 +11,15 @@ const USER_CONFIG = {
   APP_ID: 'wxdd41136945186b89',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'a57335043a4db92b29c5c0c289b9bf7e',
+  APP_SECRET: '47327edeb6aaac35c6d7fcae155846ea',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '山东',
+  CITY: '济南',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝贝',
+      name: '你好',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o0gRY64JtQZF8Kf3X5blK3inzbIA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
